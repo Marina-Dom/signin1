@@ -1,0 +1,45 @@
+body{
+    background-color: salmon;
+    margin: auto;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 8px;
+}
+.sign-in-box{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    width: 500px;
+    text-align: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+}
+.btn{
+    background-color: rgb(104, 212, 231);
+    color: white;
+    display: block;
+    margin: auto;
+    border-color: transparent;
+    padding: 8px;
+    width: 100px;
+}
+.btn:hover{
+    background-color: white;
+    color: rgb(104, 212, 231);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    margin: 15px;
+    padding: 20px;
+    
+}
+input[type=username], input[type=password]{
+    width: 300px;
+    display: block;
+    margin: auto;
+    padding: 1em;
+    margin-bottom: 10px;
+    border-color: transparent;
+}
+
